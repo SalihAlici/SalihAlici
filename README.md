@@ -11,6 +11,12 @@ Gömülü sistemler, gerçek zamanlı kontrol ve uydu yer istasyonu yazılımlar
 | [MERGEN-KAT3-GCSS](https://github.com/SalihAlici/MERGEN-KAT3-GCSS) | Model uydu yer istasyonu ve GPS tabanlı anten takip yazılımı | C#, WinForms |
 | [riscv-ai-coprocessor](https://github.com/SalihAlici/riscv-ai-coprocessor) | PicoRV32 RISC-V işlemcisine bağlı FP4 SIMD yapay zekâ hızlandırıcısı | Verilog, Verilator, C |
 
+## Katkıda bulunduğum projeler
+
+| Proje | Ne yapıyor | Teknoloji |
+|---|---|---|
+| [Mergen-GCSS](https://github.com/mergenmodeluydu/Mergen-GCSS) | Model uydu yer istasyonu: Wi-Fi üzerinden telemetri, grafikler, harita, 3B model, kamera yayını ve uyduya komut gönderme | C#, WinForms, TCP |
+
 ## Uzmanlık alanları
 
 - **Gömülü yazılım:** STM32, Teensy, Arduino / PlatformIO, zamanlayıcı kesmeleri, SPI / I2C / UART
